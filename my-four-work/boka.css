@@ -1,5 +1,15 @@
 table{ 
      border: 2px solid;
    border-color: blue; 
-    text-align: center;
-}
+    text-align: center; 
+     
+} 
+ h1{
+     color: brown; 
+      border: 2px solid green; 
+       border-radius: 5px;
+ } 
+  ol li{ 
+     color: tomato; 
+      background-color: rgb(16, 145, 145);
+  }
